@@ -1,0 +1,13 @@
+{
+  "name": "refactoring-book-codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "statement.js",
+  "scripts": {
+    "start": "node statement.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
